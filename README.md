@@ -1,4 +1,4 @@
-# Intelligent Scheduling Assistant (Vesper)
+# Intelligent Scheduling Assistant — SlotVero
 
 > Public portfolio case study of an AI-assisted scheduling agent designed to reduce calendar friction, detect conflicts, and support better meeting coordination across multiple calendars.
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository is a **sanitized public portfolio case study** for an intelligent scheduling assistant. The prototype interface is shown under the working product name **Vesper**.
+This repository is a **sanitized public portfolio case study** for an intelligent scheduling assistant. The prototype interface is shown under the product name **SlotVero**.
 
 The concept is designed around a simple operating problem: calendars are easy to fill, but difficult to coordinate well. Meetings often require repeated availability checks, conflict resolution, back-and-forth messages, and manual rescheduling across work and personal calendars.
 
