@@ -1,6 +1,6 @@
 # High-Level Architecture Notes
 
-This document intentionally remains implementation-agnostic.
+This document describes a proposed architecture, not verified live connections. It intentionally remains implementation-agnostic.
 
 ## Conceptual Layers
 

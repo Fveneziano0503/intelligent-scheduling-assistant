@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository is a **sanitized public portfolio case study** for an intelligent scheduling assistant. The prototype interface is shown under the product name **SlotVero**.
+This repository is a **sanitized public portfolio case study** for an intelligent scheduling assistant. The public workflow concept uses the standalone name **SlotVero**.
 
 The concept is designed around a simple operating problem: calendars are easy to fill, but difficult to coordinate well. Meetings often require repeated availability checks, conflict resolution, back-and-forth messages, and manual rescheduling across work and personal calendars.
 
@@ -18,7 +18,7 @@ This project explores how an AI-assisted scheduling layer can help a user unders
 
 **Core implementation, credentials, private workflows, and production integrations are maintained privately.**
 
-> **Portfolio note:** All screenshots use fictional demo data. The public materials demonstrate product direction, workflow design, and prototype UX; they do not claim production deployment or live connector readiness.
+> **Portfolio note:** All six images are illustrative workflow visuals using fictional data, not live application screenshots. They communicate product direction and review steps; they do not verify live connectors, AI execution, or production deployment.
 
 ---
 
@@ -108,7 +108,7 @@ This diagram is intentionally high level and does not disclose implementation-sp
 
 ---
 
-## Product Screenshots
+## Illustrative Portfolio Views
 
 ### 1. Scheduling Command Center
 A single management view for today's agenda, open focus time, pending scheduling issues, and natural-language scheduling requests.
@@ -150,7 +150,7 @@ A prototype configuration view for calendar sources, working hours, transition b
 
 ![Calendar Integrations](screenshots/06-calendar-integrations.png)
 
-> All people, meetings, calendar states, and scheduling data shown in these screenshots are fictional and sanitized for portfolio use.
+> All meetings and availability windows are fictional. The images do not represent actual calendar connection states or completed scheduling actions.
 
 <br>
 
@@ -198,7 +198,7 @@ The goal is one coordination layer across calendars rather than forcing the user
 - High-level capabilities
 - Prototype user experience
 - High-level system view
-- Sanitized screenshots
+- Illustrative workflow views
 - Fictional sample data
 - Business value and product thinking
 
@@ -225,7 +225,7 @@ The goal is one coordination layer across calendars rather than forcing the user
 
 This public repository exists to demonstrate applied AI product thinking, workflow design, scheduling-agent concepts, and human-centered automation while protecting the underlying implementation.
 
-The screenshots are polished prototype/demo screens using fictional information. Individual connector and automation capabilities should be considered **demonstrated product direction unless separately verified in a working environment**.
+The images are illustrative workflow views, not evidence of tested connector or automation capabilities. Individual capabilities remain product direction unless separately verified in a working environment.
 
 ---
 

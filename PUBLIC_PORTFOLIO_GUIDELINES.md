@@ -4,7 +4,7 @@ This repository is designed to demonstrate the Intelligent Scheduling Assistant 
 
 ## Safe to Publish
 
-- Sanitized prototype screenshots
+- Illustrative workflow visuals with fictional data
 - Fictional meeting and calendar data
 - High-level capabilities
 - High-level architecture diagrams
@@ -45,4 +45,4 @@ Clearly distinguish among:
 - **Prototype capability** — designed and demonstrated in a prototype workflow
 - **Planned capability** — part of the product roadmap but not yet demonstrated
 
-The current public screenshots use fictional demo data and should be described as prototype/demo screens unless the corresponding live capability has been separately verified.
+The current public images are illustrated workflow visuals with fictional data. They are not live app screenshots or evidence of verified integrations.

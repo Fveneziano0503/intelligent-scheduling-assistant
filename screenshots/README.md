@@ -1,12 +1,10 @@
-# Screenshot Notes
+# Illustrative Portfolio Views
 
-These screenshots are sanitized portfolio/demo screens for the Intelligent Scheduling Assistant prototype.
+These six images are newly created workflow illustrations with fictional data. They are not live app screenshots. No customer, employer, real financial, personal-calendar, or credential data is used. They do not prove connected integrations or completed automation.
 
-- `01-scheduling-dashboard.png` — command center and natural-language scheduling interaction
-- `02-calendar-availability.png` — cross-calendar availability review
-- `03-conflict-detection.png` — scheduling conflicts and rule violations
-- `04-alternative-time-suggestions.png` — alternative meeting windows
-- `05-meeting-invite-reschedule.png` — invite and reschedule review workflow
-- `06-calendar-integrations.png` — calendar connections and scheduling rules
-
-All people, meetings, dates, and calendar data shown are fictional and for demonstration purposes only.
+- `01-scheduling-dashboard.png` — Scheduling overview
+- `02-calendar-availability.png` — Calendar availability
+- `03-conflict-detection.png` — Conflict detection
+- `04-alternative-time-suggestions.png` — Alternative times
+- `05-meeting-invite-reschedule.png` — Invite and reschedule review
+- `06-calendar-integrations.png` — Calendar sources and rules
