@@ -235,7 +235,7 @@ The images are illustrative workflow views, not evidence of tested connector or 
 
 Executive operator and applied AI builder with 30+ years across manufacturing, operations, finance, technology, and business transformation.
 
-- Leadership responsibility across 400+ employees
+- Leadership responsibility across 400+ team members
 - Executive operations and financial leadership
 - Manufacturing technology and systems experience
 - Workflow automation and applied AI
