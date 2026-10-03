@@ -1,0 +1,38 @@
+# Secrets and environment files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+tokens/
+
+# Private implementation
+src-private/
+private/
+internal/
+prompts/
+agents/
+architecture-private/
+provider-auth/
+production-config/
+customer-data/
+private-data/
+
+# Runtime / dependency output
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+.next/
+__pycache__/
+*.pyc
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
