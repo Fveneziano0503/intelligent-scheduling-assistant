@@ -1,0 +1,5 @@
+date,window_start,window_end,availability_type,reason
+2026-10-04,09:30,10:15,Available,Open across demo calendars
+2026-10-04,13:00,13:30,Available,Open across demo calendars
+2026-10-04,14:00,14:45,Preferred,Best match to demo scheduling rules
+2026-10-04,16:00,17:00,Protected,Demo focus block
