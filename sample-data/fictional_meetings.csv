@@ -1,0 +1,5 @@
+meeting_id,title,date,start_time,end_time,calendar,status,notes
+DEMO-001,Operations Review,2026-10-03,09:00,09:45,Microsoft 365,Confirmed,Fictional portfolio data
+DEMO-002,Product Working Session,2026-10-03,11:00,12:00,Google Calendar,Confirmed,Fictional portfolio data
+DEMO-003,Client Discovery Call,2026-10-03,14:30,15:00,Microsoft 365,Pending,Fictional portfolio data
+DEMO-004,Focus Block,2026-10-03,16:00,17:30,Protected Time,Focus,Fictional portfolio data
